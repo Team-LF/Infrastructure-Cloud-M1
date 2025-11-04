@@ -1,0 +1,19 @@
+# Environnements virtuels
+venv/
+.env
+
+# Fichiers Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Fichiers système
+.DS_Store
+
+# Docker
+*.log
+
+# VSCode ou autres IDE
+.vscode/
+.idea/
